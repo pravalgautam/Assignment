@@ -44,7 +44,7 @@ struct SplashScreen: View {
             
             VStack {
                 Spacer()
-                NavigationLink(destination: ContentView()) {
+                NavigationLink(destination: ContentView().navigationBarBackButtonHidden()) {
                             Text("Continue")
                                 .font(.title3)
                                 .fontWeight(.light)

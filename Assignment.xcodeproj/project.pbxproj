@@ -14,6 +14,19 @@
 		40F49D362D5E1F7100E4A14B /* AssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D352D5E1F7100E4A14B /* AssignmentTests.swift */; };
 		40F49D402D5E1F7100E4A14B /* AssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D3F2D5E1F7100E4A14B /* AssignmentUITests.swift */; };
 		40F49D422D5E1F7100E4A14B /* AssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D412D5E1F7100E4A14B /* AssignmentUITestsLaunchTests.swift */; };
+		40F49D4F2D5E20F700E4A14B /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D4E2D5E20F700E4A14B /* SplashScreen.swift */; };
+		40F49D512D5E229000E4A14B /* PokeMonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D502D5E229000E4A14B /* PokeMonView.swift */; };
+		40F49D532D5E279600E4A14B /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D522D5E279600E4A14B /* PokemonViewModel.swift */; };
+		40F49D552D5E3BB700E4A14B /* FoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D542D5E3BB700E4A14B /* FoodView.swift */; };
+		40F49D572D5E3E1800E4A14B /* RecipeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D562D5E3E1800E4A14B /* RecipeViewModel.swift */; };
+		40F49D5A2D5E6F2300E4A14B /* FavoriteModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D582D5E6F2300E4A14B /* FavoriteModel.xcdatamodeld */; };
+		40F49D5C2D5E762300E4A14B /* CoreDataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D5B2D5E762300E4A14B /* CoreDataProvider.swift */; };
+		40F49D5E2D5E79EE00E4A14B /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D5D2D5E79EE00E4A14B /* CoreDataManager.swift */; };
+		40F49D632D5E9A0D00E4A14B /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D622D5E9A0D00E4A14B /* RecipeDetailView.swift */; };
+		40F49D652D5E9AF900E4A14B /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D642D5E9AF900E4A14B /* RecipeModel.swift */; };
+		40F49D6C2D5E9BE000E4A14B /* PokemonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D6B2D5E9BE000E4A14B /* PokemonModel.swift */; };
+		40F49D6E2D5E9C1600E4A14B /* PokemonDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D6D2D5E9C1600E4A14B /* PokemonDetailView.swift */; };
+		40F49D712D5E9DDC00E4A14B /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F49D702D5E9DDC00E4A14B /* FavoritesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +57,19 @@
 		40F49D3B2D5E1F7100E4A14B /* AssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40F49D3F2D5E1F7100E4A14B /* AssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentUITests.swift; sourceTree = "<group>"; };
 		40F49D412D5E1F7100E4A14B /* AssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		40F49D4E2D5E20F700E4A14B /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		40F49D502D5E229000E4A14B /* PokeMonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeMonView.swift; sourceTree = "<group>"; };
+		40F49D522D5E279600E4A14B /* PokemonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
+		40F49D542D5E3BB700E4A14B /* FoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodView.swift; sourceTree = "<group>"; };
+		40F49D562D5E3E1800E4A14B /* RecipeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeViewModel.swift; sourceTree = "<group>"; };
+		40F49D592D5E6F2300E4A14B /* FavoriteModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FavoriteModel.xcdatamodel; sourceTree = "<group>"; };
+		40F49D5B2D5E762300E4A14B /* CoreDataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataProvider.swift; sourceTree = "<group>"; };
+		40F49D5D2D5E79EE00E4A14B /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		40F49D622D5E9A0D00E4A14B /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		40F49D642D5E9AF900E4A14B /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
+		40F49D6B2D5E9BE000E4A14B /* PokemonModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonModel.swift; sourceTree = "<group>"; };
+		40F49D6D2D5E9C1600E4A14B /* PokemonDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailView.swift; sourceTree = "<group>"; };
+		40F49D702D5E9DDC00E4A14B /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +120,12 @@
 		40F49D232D5E1F6E00E4A14B /* Assignment */ = {
 			isa = PBXGroup;
 			children = (
+				40F49D722D5E9DF800E4A14B /* CommonUIModules */,
+				40F49D6F2D5E9CB700E4A14B /* CoreData */,
+				40F49D672D5E9B8F00E4A14B /* PokemonList */,
+				40F49D662D5E9B2F00E4A14B /* FoodList */,
 				40F49D242D5E1F6E00E4A14B /* AssignmentApp.swift */,
-				40F49D262D5E1F6E00E4A14B /* ContentView.swift */,
+				40F49D582D5E6F2300E4A14B /* FavoriteModel.xcdatamodeld */,
 				40F49D282D5E1F7100E4A14B /* Assets.xcassets */,
 				40F49D2A2D5E1F7100E4A14B /* Preview Content */,
 			);
@@ -125,6 +155,95 @@
 				40F49D412D5E1F7100E4A14B /* AssignmentUITestsLaunchTests.swift */,
 			);
 			path = AssignmentUITests;
+			sourceTree = "<group>";
+		};
+		40F49D5F2D5E99CC00E4A14B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D642D5E9AF900E4A14B /* RecipeModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		40F49D602D5E99D500E4A14B /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D562D5E3E1800E4A14B /* RecipeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		40F49D612D5E99DD00E4A14B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D542D5E3BB700E4A14B /* FoodView.swift */,
+				40F49D622D5E9A0D00E4A14B /* RecipeDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		40F49D662D5E9B2F00E4A14B /* FoodList */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D5F2D5E99CC00E4A14B /* Model */,
+				40F49D612D5E99DD00E4A14B /* View */,
+				40F49D602D5E99D500E4A14B /* ViewModel */,
+			);
+			path = FoodList;
+			sourceTree = "<group>";
+		};
+		40F49D672D5E9B8F00E4A14B /* PokemonList */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D6A2D5E9BA000E4A14B /* ViewModel */,
+				40F49D692D5E9B9C00E4A14B /* View */,
+				40F49D682D5E9B9700E4A14B /* Model */,
+			);
+			path = PokemonList;
+			sourceTree = "<group>";
+		};
+		40F49D682D5E9B9700E4A14B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D6B2D5E9BE000E4A14B /* PokemonModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		40F49D692D5E9B9C00E4A14B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D502D5E229000E4A14B /* PokeMonView.swift */,
+				40F49D6D2D5E9C1600E4A14B /* PokemonDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		40F49D6A2D5E9BA000E4A14B /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D522D5E279600E4A14B /* PokemonViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		40F49D6F2D5E9CB700E4A14B /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D5B2D5E762300E4A14B /* CoreDataProvider.swift */,
+				40F49D5D2D5E79EE00E4A14B /* CoreDataManager.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		40F49D722D5E9DF800E4A14B /* CommonUIModules */ = {
+			isa = PBXGroup;
+			children = (
+				40F49D262D5E1F6E00E4A14B /* ContentView.swift */,
+				40F49D702D5E9DDC00E4A14B /* FavoritesView.swift */,
+				40F49D4E2D5E20F700E4A14B /* SplashScreen.swift */,
+			);
+			path = CommonUIModules;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +376,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40F49D552D5E3BB700E4A14B /* FoodView.swift in Sources */,
+				40F49D6C2D5E9BE000E4A14B /* PokemonModel.swift in Sources */,
+				40F49D512D5E229000E4A14B /* PokeMonView.swift in Sources */,
+				40F49D532D5E279600E4A14B /* PokemonViewModel.swift in Sources */,
+				40F49D5A2D5E6F2300E4A14B /* FavoriteModel.xcdatamodeld in Sources */,
+				40F49D712D5E9DDC00E4A14B /* FavoritesView.swift in Sources */,
+				40F49D572D5E3E1800E4A14B /* RecipeViewModel.swift in Sources */,
+				40F49D652D5E9AF900E4A14B /* RecipeModel.swift in Sources */,
+				40F49D5C2D5E762300E4A14B /* CoreDataProvider.swift in Sources */,
+				40F49D6E2D5E9C1600E4A14B /* PokemonDetailView.swift in Sources */,
+				40F49D4F2D5E20F700E4A14B /* SplashScreen.swift in Sources */,
+				40F49D632D5E9A0D00E4A14B /* RecipeDetailView.swift in Sources */,
 				40F49D272D5E1F6E00E4A14B /* ContentView.swift in Sources */,
+				40F49D5E2D5E79EE00E4A14B /* CoreDataManager.swift in Sources */,
 				40F49D252D5E1F6E00E4A14B /* AssignmentApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -588,6 +720,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		40F49D582D5E6F2300E4A14B /* FavoriteModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				40F49D592D5E6F2300E4A14B /* FavoriteModel.xcdatamodel */,
+			);
+			currentVersion = 40F49D592D5E6F2300E4A14B /* FavoriteModel.xcdatamodel */;
+			name = FavoriteModel.xcdatamodeld;
+			path = /Users/pravalgautam/Desktop/Assignment/Assignment/FavoriteModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 40F49D192D5E1F6D00E4A14B /* Project object */;
 }
